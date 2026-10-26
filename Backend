@@ -1,4 +1,4 @@
-// Movie Ticket Booking Backend - Made for Pavani
+// Movie Ticket Booking Backend
 const express = require('express');
 const cors = require('cors');
 
